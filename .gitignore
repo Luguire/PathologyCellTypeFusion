@@ -1,0 +1,9 @@
+data/
+checkpoints/
+outputs/
+*.pt
+*.pth
+__pycache__/
+.venv/
+.idea/
+
